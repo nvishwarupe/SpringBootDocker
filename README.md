@@ -1,2 +1,2 @@
 # SpringBootDocker
-Dockersizing Spring Boot application
+Dockerizing Spring Boot application
